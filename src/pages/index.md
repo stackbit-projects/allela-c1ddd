@@ -60,6 +60,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+    subtitle: 'Clotilde Chantal KWEVI KAYISSA  ep. ALLELA '
   - section_id: reviews
     type: section_reviews
     background: white
