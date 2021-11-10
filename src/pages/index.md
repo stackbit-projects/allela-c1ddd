@@ -92,7 +92,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: 'Derniers Articles '
+    title: Derniers Articles / Parutions
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
