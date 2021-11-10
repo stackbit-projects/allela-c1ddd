@@ -6,9 +6,10 @@ sections:
     image: images/IMG-20181204-WA0050 (2).jpg
     image_alt: App preview
     title: QUI SUIS-JE ?
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Je suis Clotilde Chantal KWEVI KAYISSA épouse ALLELA. À travers ce site
+      web, vous découvrirez tout mon parcours, mes diplômes. mes actualités,
+      etc.
     actions:
       - label: Learn More
         url: /features
