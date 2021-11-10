@@ -14,7 +14,7 @@ seo:
       value: Toute l'actualité de Chantal ALLELA-KWEVI.
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: images/Gabão5-1-1024x768.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
