@@ -92,7 +92,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Note Biographique
         image: images/Gabão50.jpg
         image_alt: App user profile preview
         content: >-
