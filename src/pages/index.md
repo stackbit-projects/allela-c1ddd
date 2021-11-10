@@ -105,7 +105,7 @@ seo:
       value: Site web montrant mon parcours professionnel.
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: Site web montrant mon parcours professionnel.
       keyName: property
     - name: 'og:image'
       value: images/IMG-20181204-WA0050 (2).jpg
