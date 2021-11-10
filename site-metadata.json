@@ -54,7 +54,6 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Ré",
                 "nav_links": [
                     {
                         "label": "Twitter",
