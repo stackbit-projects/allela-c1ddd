@@ -60,7 +60,7 @@ sections:
     title: TÉMOIGNAGES
     subtitle: >-
       Quelques mots des personnes qui ont pu côtoyer  Mme. Clotilde Chantal
-      ALLELA-
+      ALLELA-KWEVI.
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
