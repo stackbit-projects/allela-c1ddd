@@ -87,7 +87,7 @@ sections:
     subtitle: Rédigez un email et je vous répondrai au moment idéal.
     actions:
       - label: CONTACTEZ-MOI
-        url: /signup
+        url: 'mailto:'
         style: primary
   - section_id: recent-posts
     type: section_posts
