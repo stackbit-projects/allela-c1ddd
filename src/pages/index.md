@@ -13,7 +13,7 @@ sections:
     actions:
       - label: En savoir plus
         url: /features
-        style: primary
+        style: danger
   - section_id: features
     type: section_features
     background: gray
