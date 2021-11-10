@@ -8,7 +8,7 @@ date: '2019-03-24'
 thumb_image: images/11_thumb.jpg
 image: images/11.jpg
 seo:
-  title: How Our Design Team Collaborates
+  title: Conférence de Chantal ALLELA-KWEVI
   description: Conférence de Chantal ALLELA-KWEVI
   extra:
     - name: 'og:type'
