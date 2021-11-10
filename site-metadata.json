@@ -93,6 +93,16 @@
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "content": "&copy; Clotilde Chantal ALLELA-KWEVI. Tous les droits réservés. Ce site a été conçu par Yvon Nicaise TCHIBINDA."
