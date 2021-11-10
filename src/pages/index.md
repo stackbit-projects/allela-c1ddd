@@ -20,12 +20,6 @@ sections:
     features:
       - image_alt: App preview on a phone and tablet
         content: >
-          ****![](images/IMG-20181204-WA0050%20\(2\).jpg)
-
-
-          ****
-
-
           **Clotilde Chantal ALLELA-KWEVI**, est gabonaise. Elle a fait ses
           études supérieures à Libreville (Licence), Perpignan (Maîtrise),
           Montpellier (DEA, Doctorat, Licence de langue et culture portugaises,
