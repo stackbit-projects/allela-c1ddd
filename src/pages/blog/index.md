@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: Toute l'actualité de Chantal ALLELA-KWEVI.
     - name: 'twitter:image'
       value: images/Gabão5-1-1024x768.jpg
       relativeUrl: true
