@@ -21,7 +21,7 @@ seo:
       value: Conférence internationale sur les langues au Brésil.
       keyName: property
     - name: 'og:image'
-      value: images/11.jpg
+      value: images/Gabão26-696x928.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
