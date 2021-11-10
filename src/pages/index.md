@@ -116,7 +116,7 @@ seo:
     - name: 'twitter:title'
       value: Chantal ALLELA-KWEVI
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: Site web montrant mon parcours professionnel.
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
