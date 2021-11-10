@@ -12,7 +12,7 @@
             },
             {
                 "label": "Contact",
-                "url": "/",
+                "url": "<",
                 "style": "primary"
             }
         ]
