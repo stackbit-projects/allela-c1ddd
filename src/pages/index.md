@@ -12,7 +12,7 @@ sections:
       etc.
     actions:
       - label: EN SAVOIR PLUS
-        url: '#'
+        url: '#biographie'
         style: primary
   - section_id: biographie
     title: Biographie
