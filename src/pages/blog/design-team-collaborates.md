@@ -18,7 +18,7 @@ seo:
       value: Conférence de Chantal ALLELA-KWEVI
       keyName: property
     - name: 'og:description'
-      value: 'Conférence '
+      value: Conférence internationale sur les langues au Brésil.
       keyName: property
     - name: 'og:image'
       value: images/11.jpg
