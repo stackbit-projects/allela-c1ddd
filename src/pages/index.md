@@ -68,13 +68,7 @@ sections:
           supérieurs  (Licence, Master) dans des filières telles que le
           Management des organisations, les Carrières Juridiques, l’Information
           et la communication, les carrières d’Assistant Manager…etc.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
