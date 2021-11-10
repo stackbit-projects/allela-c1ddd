@@ -45,13 +45,7 @@ sections:
           (Université du Gabon),  SANKOFA, Université de Bouaké. Egalement
           auteure de fiction, sous le pseudonyme de Kaïssa, elle a publié un
           roman autobiographique intitulé Le chant de Yaye (Nten, 2013).
-        actions:
-          - label: Lire la note biographique
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Note Biographique
         image: images/Gabão50.jpg
         image_alt: App user profile preview
