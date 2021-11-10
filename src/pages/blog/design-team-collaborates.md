@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: How Our Design Team Collaborates
     - name: 'twitter:description'
-      value: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
+      value: Conférence internationale sur les langues au Brésil.
     - name: 'twitter:image'
       value: images/11.jpg
       relativeUrl: true
