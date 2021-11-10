@@ -118,7 +118,7 @@ seo:
     - name: 'twitter:description'
       value: Site web montrant mon parcours professionnel.
     - name: 'twitter:image'
-      value: images/hero.png
+      value: images/IMG-20181204-WA0050 (2).jpg
       relativeUrl: true
 template: landing
 ---
