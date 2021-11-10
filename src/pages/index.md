@@ -93,7 +93,7 @@ sections:
     type: section_posts
     background: gray
     title: MON ACTUALITÉ
-    subtitle: 'Tous mes derniers articles '
+    subtitle: Tous mes derniers articles et
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
