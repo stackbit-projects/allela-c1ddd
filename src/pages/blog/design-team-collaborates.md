@@ -9,7 +9,7 @@ thumb_image: images/11_thumb.jpg
 image: images/11.jpg
 seo:
   title: Conférence de Chantal ALLELA-KWEVI
-  description: Conférence de Chantal ALLELA-KWEVI
+  description: Conférence internationale sur les langues au Brésil.
   extra:
     - name: 'og:type'
       value: article
