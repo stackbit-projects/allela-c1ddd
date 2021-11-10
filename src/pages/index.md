@@ -95,7 +95,7 @@ sections:
     title: MON ACTUALITÉ
     subtitle: Tous mes derniers articles et / ou parutions.
 seo:
-  title: Stackbit Azimuth Theme
+  title: Chantal ALLELA-KWEVI
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
