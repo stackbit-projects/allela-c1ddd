@@ -19,7 +19,15 @@ sections:
     content: "Clotilde Chantal ALLELA-KWEVI, est gabonaise. Elle a fait ses études supérieures à Libreville (Licence), Perpignan (Maîtrise), Montpellier (DEA, Doctorat, Licence de langue et culture portugaises, DU de sociocritique). En 1997, après l’obtention de son doctorat en Etudes Romanes (spécialité Etudes Hispano-Américaines), elle regagne son pays où elle est recrutée comme Assistant à l’Université Omar Bongo (Libreville). En 2000, elle est admise au grade de Maître Assistant (CAMES), puis en 2013 accède au grade de Maître de Conférences (CAMES).\_\_\_\n\nActuellement, Maître de Conférences (Art et littérature hispano-américains), elle est enseignant –chercheur au Département des Etudes Ibériques et Latino-américaines de la même université, chargée de la coordination de la formation doctorale de la dite section.\_ Ses enseignements portent sur la littérature latino-américaine et les productions culturelles et artistiques.\n"
     image_alt: lorem-ipsum
     background: white
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
     type: section_content
     image: images/Gabão26-696x928.jpg
   - section_id: features
