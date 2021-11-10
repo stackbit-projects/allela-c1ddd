@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: How Our Design Team Collaborates
+      value: Conférence de Chantal ALLELA-KWEVI
     - name: 'twitter:description'
       value: Conférence internationale sur les langues au Brésil.
     - name: 'twitter:image'
