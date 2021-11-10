@@ -58,7 +58,9 @@ sections:
     type: section_reviews
     background: gray
     title: TÉMOIGNAGES
-    subtitle: 'Quelques mots des personnes qui ont pu côtoyer '
+    subtitle: >-
+      Quelques mots des personnes qui ont pu côtoyer  Mme. Clotilde Chantal
+      ALLELA-
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
