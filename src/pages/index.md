@@ -96,7 +96,7 @@ sections:
     subtitle: Tous mes derniers articles et / ou parutions.
 seo:
   title: Chantal ALLELA-KWEVI
-  description: The preview of the Azimuth theme
+  description: Site web montrant mon parcours professionnel.
   extra:
     - name: 'og:type'
       value: website
