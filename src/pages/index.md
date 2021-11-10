@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/IMG-20181204-WA0050 (2).jpg
     image_alt: App preview
-    title: Clotilde Chantal ALLELA
+    title: QUI SUIS-JE ?
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
