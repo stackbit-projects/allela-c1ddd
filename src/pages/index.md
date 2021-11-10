@@ -86,7 +86,7 @@ sections:
     title: Écrivez-Moi Maintenant !
     subtitle: Rédigez un email et je vous répondrai au moment idéal.
     actions:
-      - label: CONTACTEZ MAINTENANT
+      - label: CONTACTEZ !
         url: /signup
         style: primary
   - section_id: recent-posts
