@@ -51,14 +51,6 @@
                 "type": "footer_nav",
                 "nav_links": [
                     {
-                        "label": "Twitter",
-                        "url": "https://twitter.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "twitter",
-                        "icon_position": "left"
-                    },
-                    {
                         "label": "LinkedIn",
                         "url": "https://ga.linkedin.com/in/clotilde-allela-45811b162",
                         "style": "link",
