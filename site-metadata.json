@@ -12,7 +12,7 @@
             },
             {
                 "label": "Contact",
-                "url": "/signup",
+                "url": "/",
                 "style": "primary"
             }
         ]
