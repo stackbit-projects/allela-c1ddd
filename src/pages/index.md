@@ -54,24 +54,6 @@ sections:
       - content: "Parallèlement à ses activités à l’UOB, Clotilde Chantal ALLELA a été Directrice Générale (2006-2019) de l’Institut des Sciences de l’Organisation (IUSO) de Libreville, un établissement de l’enseignement supérieur spécialisé dans les métiers du tertiaire. Cette haute fonction académique lui aura permis de contribuer à des réformes\_ pédagogiques en vue de l’amélioration de l’offre de formation universitaire au Gabon, tout en consolidant les programmes des cycles supérieurs\_ \\_Licence, Master\\_ dans des filières telles que le Management des organisations, les Carrières Juridiques, l’Information et la communication, les carrières d’Assistant Manager…etc.\_Auteure de plusieurs articles, ses travaux sont publiés spécialement aux Editions du CERS de l’Université Paul-Valéry de Montpellier, Presse Universitaire de Perpignan (Collection Etudes), *Interculture*l, Revue Interdisciplinaire de l'Alliance Française (Association culturelle franco-italienne). Elle a aussi publié dans des revues universitaires africaines\_; *Cuadernos*, Revue du Centre d’études et de recherches ibériques et latino-américaines, *Gabonica*, Hispanitas, *KRAAL* (Revue interdisciplinaire de Lettres, arts et langues, (Université du Gabon),\_ *SANKOFA*, Université de Bouaké. Egalement auteure de fiction, Clotilde-Chantal Kwevi Kayissa (Allela) a publié un roman autobiographique intitulé *Le chant de Yaye* (Nten, 2013). \n"
         image_alt: lorem-ipsum
         actions: []
-  - section_id: lorem-ipsum
-    background: gray
-    features:
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        image_alt: lorem-ipsum
-        actions: []
-    type: section_features
   - section_id: reviews
     type: section_reviews
     background: white
