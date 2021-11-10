@@ -12,7 +12,7 @@
             },
             {
                 "label": "Contact",
-                "url": "<a href=\"mailto:clotilde.allela@yahoo.com\"><",
+                "url": "<a href=\"mailto:clotilde.allela@yahoo.com\"></a>",
                 "style": "primary"
             }
         ]
