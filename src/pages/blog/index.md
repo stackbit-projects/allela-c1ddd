@@ -2,7 +2,7 @@
 title: Blog
 seo:
   title: Blog
-  description: This is the blog page
+  description: Toute l'actualité de Chantal ALLELA-KWEVI.
   extra:
     - name: 'og:type'
       value: website
