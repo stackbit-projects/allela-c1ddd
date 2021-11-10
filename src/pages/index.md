@@ -14,6 +14,12 @@ sections:
       - label: En savoir plus
         url: /features
         style: primary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
   - section_id: features
     type: section_features
     background: gray
@@ -146,12 +152,6 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    features: []
-    type: section_features
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
