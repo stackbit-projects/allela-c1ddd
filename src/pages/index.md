@@ -31,6 +31,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Gabão26-696x928.jpg
   - section_id: features
     type: section_features
     background: gray
