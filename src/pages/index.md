@@ -72,10 +72,20 @@ sections:
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Clotilde Chantal ALLELA-KWEVI, a été membre des jurys de thèse à
+          l’Université de Perpignan et co-dirigé une thèse avec Pr Lavou.
+          Auteure de plusieurs articles, ses travaux sont publiés spécialement
+          aux Editions du CERS de l’Université Paul-Valéry de Montpellier,
+          Presse Universitaire de Perpignan (Collection Etudes), Interculturel,
+          Revue Interdisciplinaire de l'Alliance Française (Association
+          culturelle franco-italienne). Elle a aussi publié dans des revues
+          universitaires africaines ; Cuadernos, Revue du Centre d’études et de
+          recherches ibériques et latino-américaines, Gabonica, Hispanitas,
+          KRAAL (Revue interdisciplinaire de Lettres, arts et langues,
+          (Université du Gabon),  SANKOFA, Université de Bouaké. Egalement
+          auteure de fiction, sous le pseudonyme de Kaïssa, elle a publié un
+          roman autobiographique intitulé Le chant de Yaye (Nten, 2013).
         actions:
           - label: Learn More
             url: /features
