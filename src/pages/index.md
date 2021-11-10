@@ -15,7 +15,7 @@ sections:
         url: /features
         style: primary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: B
     content: >-
       ## Lorem ipsum
 
