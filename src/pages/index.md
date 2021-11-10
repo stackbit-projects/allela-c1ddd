@@ -17,7 +17,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: 'PARCOURS DE CHANTAL '
+    title: 'PARCOURS DE CLOTILDE CHANTAL '
     features:
       - image_alt: App preview on a phone and tablet
         content: >
