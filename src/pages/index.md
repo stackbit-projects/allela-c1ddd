@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/IMG-20181204-WA0050 (2).jpg
     image_alt: App preview
     title: Clotilde Chantal ALLELA
     content: >-
