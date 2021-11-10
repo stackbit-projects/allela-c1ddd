@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: Conférence internationale sur les langues au Brésil.
     - name: 'twitter:image'
-      value: images/11.jpg
+      value: images/Gabão50.jpg
       relativeUrl: true
 template: post
 ---
