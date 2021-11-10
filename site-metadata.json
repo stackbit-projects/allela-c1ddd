@@ -79,7 +79,8 @@
                         "icon": "github",
                         "icon_position": "left"
                     }
-                ]
+                ],
+                "title": "Mes Contacts"
             },
             {
                 "type": "footer_form",
