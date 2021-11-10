@@ -18,8 +18,7 @@ sections:
     background: gray
     title: BIOGRAPHIE
     features:
-      - title: The Best Feature of Your Services
-        image_alt: App preview on a phone and tablet
+      - image_alt: App preview on a phone and tablet
         content: >
           ****![](images/IMG-20181204-WA0050%20\(2\).jpg)
 
