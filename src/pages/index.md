@@ -69,6 +69,7 @@ sections:
           Management des organisations, les Carrières Juridiques, l’Information
           et la communication, les carrières d’Assistant Manager…etc.
         actions: []
+        title: B
       - image: images/Gabão5-1-1024x768.jpg
         image_alt: App users welcoming a new member
         content: >
