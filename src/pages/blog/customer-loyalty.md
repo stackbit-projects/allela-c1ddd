@@ -1,6 +1,6 @@
 ---
 title: Conférence internationale sur les langues au Brésil
-subtitle: A story about customer loyalty
+subtitle: En cours de rédaction...
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
