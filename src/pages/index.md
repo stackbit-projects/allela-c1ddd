@@ -102,7 +102,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Site web montrant mon parcours professionnel.
+      value: Chantal ALLELA-KWEVI
       keyName: property
     - name: 'og:description'
       value: Site web montrant mon parcours professionnel.
