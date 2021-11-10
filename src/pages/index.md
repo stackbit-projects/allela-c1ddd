@@ -21,15 +21,21 @@ sections:
       - title: The Best Feature of Your Services
         image_alt: App preview on a phone and tablet
         content: >
+          ****![](images/IMG-20181204-WA0050%20\(2\).jpg)
+
+
+          ****
+
+
           **Clotilde Chantal ALLELA-KWEVI**, est gabonaise. Elle a fait ses
           études supérieures à Libreville (Licence), Perpignan (Maîtrise),
           Montpellier (DEA, Doctorat, Licence de langue et culture portugaises,
-          DU de sociocritique). 
+          DU de sociocritique).
 
 
           En 1997, après l’obtention de son doctorat en Etudes Romanes
           (spécialité Etudes Hispano-Américaines), elle regagne son pays où elle
-          est recrutée comme Assistant à l’Université Omar Bongo (Libreville). 
+          est recrutée comme Assistant à l’Université Omar Bongo (Libreville).
 
 
           En 2000, elle est admise au grade de Maître Assistant (CAMES), puis en
@@ -45,13 +51,13 @@ sections:
           principalement sur la poétique de l’appareil paratextuel, l’écriture
           de la marge, la mise en rapport entre les genres littéraires (novela
           testimonio) /gender studies (féminisme), le questionnement autour des
-          identités des noir-e-s et afro-descendants dans la littérature. 
+          identités des noir-e-s et afro-descendants dans la littérature.
 
 
           Critique de l’art, elle interroge dans une perspective sociocritique
           l’objet culturel (support imagé/filmique, art-peinture), afin de
           rendre visible la présence africaine dans la construction des
-          identités en Amérique Latine.  
+          identités en Amérique Latine.
 
 
           Elle a pris part à de nombreux colloques internationaux au titre de
