@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:description'
       value: This is the blog page
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: images/Gabão5-1-1024x768.jpg
       relativeUrl: true
 template: blog
 ---
