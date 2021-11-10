@@ -58,9 +58,7 @@ sections:
     type: section_reviews
     background: gray
     title: TÉMOIGNAGES
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: 'Quelques mots des personnes qui ont pu côtoyer '
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
