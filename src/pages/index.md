@@ -84,7 +84,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Écrivez-Moi Maintenant !
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Rédige
     actions:
       - label: Get Started
         url: /signup
