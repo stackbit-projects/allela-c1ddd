@@ -18,7 +18,7 @@ seo:
       value: Conférence de Chantal ALLELA-KWEVI
       keyName: property
     - name: 'og:description'
-      value: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
+      value: 'Conférence '
       keyName: property
     - name: 'og:image'
       value: images/11.jpg
