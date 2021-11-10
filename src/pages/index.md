@@ -86,7 +86,7 @@ sections:
           auteure de fiction, sous le pseudonyme de Kaïssa, elle a publié un
           roman autobiographique intitulé Le chant de Yaye (Nten, 2013).
         actions:
-          - label: Learn More
+          - label: Lire la note biographique
             url: /features
             style: secondary
             has_icon: true
