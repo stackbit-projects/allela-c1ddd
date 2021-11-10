@@ -49,10 +49,7 @@ sections:
       - title: Note Biographique
         image: images/Gabão50.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: "Diplômée de l’l’Université Paul Valéry de Montpellier III et Maître de Conférences (CAMES) en Art et Littérature hispano-américaines, Clotilde-Chantal KWEVI-KAYISSA (ép.) ALLELA \_est titulaire d’un Doctorat NR en Etudes Romanes (option Hispano-américain), d’une Licence en Langue et culture portugaises et d’un D.U en théorie littéraire Sociocritique. Elle est enseignant-chercheure à l’Université Omar Bongo de Libreville depuis 1997.\n\nMembre-collaboratrice, depuis plusieurs années de l’Institut International de Sociocritique (ISIM) fondé et dirigé par le Pr Edmond Cros, elle est chercheure-associée affiliée au GRENAL (Groupe de Recherche et\_ d’Etudes des Noir-e-s en Amérique Latine.\_ Ses enseignements, à l’instar de ses recherches, portent sur la littérature hispano-américaine, qu’elle aborde dans une perspective sociocritique, en privilégiant la relation entre les pratiques discursives émergeant des productions littéraires et les productions culturelles (art, peinture, iconographie) du monde hispano-américain contemporain. Au sein du Département d’Etudes Ibériques et Latino-américaines de l’Université Omar Bongo de Libreville, elle a été\_ Responsable des Masters de recherche (2013-2019) et actuellement Responsable de la Formation Doctorale. Outre les enseignements spécialisés, elle a animé des séminaires d’épistémologie et de méthodologie de Recherche. Ce qui lui a permis de développer des programmes dans les champs disciplinaires privilégiant l’analyse des supports imagés (peinture, art, iconographie) et filmiques. \n"
         actions:
           - label: Learn More
             url: /features
