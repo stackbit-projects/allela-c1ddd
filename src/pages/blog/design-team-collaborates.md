@@ -9,7 +9,7 @@ thumb_image: images/11_thumb.jpg
 image: images/11.jpg
 seo:
   title: How Our Design Team Collaborates
-  description: Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan.
+  description: Conférence de Chantal ALLELA-KWEVI
   extra:
     - name: 'og:type'
       value: article
