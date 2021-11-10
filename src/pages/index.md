@@ -84,7 +84,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Écrivez-Moi Maintenant !
-    subtitle: 'Rédigez un email et je vous répondrai '
+    subtitle: Rédigez un email et je vous répondrai au moment idéa
     actions:
       - label: Get Started
         url: /signup
