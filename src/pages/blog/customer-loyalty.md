@@ -1,5 +1,5 @@
 ---
-title: Conférence internationale sur les langues au bresil
+title: Conférence internationale sur les langues au Brésil
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
