@@ -72,7 +72,7 @@
             {
                 "type": "footer_form",
                 "title": "Newsletters",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Restez au courant de mes derniers évènements.\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
