@@ -91,7 +91,7 @@ sections:
         style: primary
   - section_id: recent-posts
     type: section_posts
-    background: gray
+    background: white
     title: MON ACTUALITÉ
     subtitle: Tous mes derniers articles et / ou parutions.
 seo:
