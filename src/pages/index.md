@@ -87,7 +87,7 @@ sections:
     subtitle: Rédigez un email et je vous répondrai au moment idéal.
     actions:
       - label: CONTACTEZ-MOI
-        url: 'mailto:"yachadee1208@gmail.com'
+        url: 'mailto:"yachadee1208@gmail.com"'
         style: primary
   - section_id: recent-posts
     type: section_posts
