@@ -11,7 +11,7 @@ sections:
       web, vous découvrirez tout mon parcours, mes diplômes. mes actualités,
       etc.
     actions:
-      - label: En savoir plus
+      - label: EN SAVOIR PLUS
         url: /features
         style: primary
   - section_id: biographie
