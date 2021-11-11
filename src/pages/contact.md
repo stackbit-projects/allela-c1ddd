@@ -9,7 +9,7 @@ sections:
     form_id: contactForm
     form_fields:
       - input_type: text
-        name: name
+        name: Nom
         label: Name
         is_required: true
       - input_type: email
