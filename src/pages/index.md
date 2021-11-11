@@ -94,7 +94,7 @@ sections:
     type: section_posts
     background: white
     title: MON ACTUALITÉ
-    subtitle: Tous mes derniers articles et / ou parutions.
+    subtitle: Tous les derniers articles et / ou parutions.
 seo:
   title: Chantal ALLELA-KWEVI
   description: Site web montrant mon parcours professionnel.
