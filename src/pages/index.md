@@ -86,8 +86,8 @@ sections:
     type: section_cta
     title: Écrire au Pr. Clotilde Chantal
     subtitle: >-
-      Rédigez votre message et envoyez-le afin de recevoir un une réponse du
-      Professeur. 
+      Rédigez votre message et envoyez-le afin de recevoir un une réponse du Pr.
+      Clotilde Chantal ALLELA-KWEVI. 
     actions:
       - label: ENVOYER UN MESSAGE
         url: /contact
