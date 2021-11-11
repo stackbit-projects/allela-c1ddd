@@ -85,7 +85,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Écrivez au Pr. Clotilde Chantal
-    subtitle: Rédigez un email et je vous répondrai au moment idéal.
+    subtitle: Rédigez un email et elle vous répondrai au moment idéal.
     actions:
       - label: CONTACTEZ-MOI
         url: /contact
