@@ -18,14 +18,6 @@ sections:
         label: Email
         is_required: true
         default_value: Votre email
-      - input_type: select
-        name: subject
-        label: Motif
-        default_value: Sélectionner le motif
-        options:
-          - Entrer en contact avec moi
-          - Sponsorship
-          - Other
       - input_type: textarea
         name: message
         label: Message
