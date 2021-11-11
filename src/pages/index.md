@@ -84,7 +84,7 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          <p align="justify">Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
+          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.</p>
       - author: Parsley Montana
         avatar: images/review2.jpg
