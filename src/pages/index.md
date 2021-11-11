@@ -6,10 +6,11 @@ sections:
     image: images/IMG-20181204-WA0050 (2).jpg
     image_alt: App preview
     title: QUI SUIS-JE ?
-    content: >
-      Je suis Clotilde Chantal KWEVI KAYISSA épouse ALLELA. À travers ce site
-      web, vous découvrirez tout mon parcours, mes diplômes. mes actualités,
-      etc.
+    content: >+
+      Clotilde Chantal KWEVI KAYISSA épouse ALLELA. A travers ce blog, vous
+      aurez un aperçu sur son parcours universitaire, ses activités qui meublent
+      la vie d'une  femme, humble mais passionnée par ce qu'elle entreprend.
+
     actions:
       - label: EN SAVOIR PLUS
         url: '#biographie'
