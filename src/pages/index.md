@@ -84,7 +84,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: Écrivez-Moi Maintenant !
+    title: Écrivez au Pr. Chantal
     subtitle: Rédigez un email et je vous répondrai au moment idéal.
     actions:
       - label: CONTACTEZ-MOI
