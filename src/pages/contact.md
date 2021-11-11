@@ -45,7 +45,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Contact
+      value: Contact - Clotilde Chantal ALLELA
     - name: 'twitter:description'
       value: This is the contact page
 template: landing
