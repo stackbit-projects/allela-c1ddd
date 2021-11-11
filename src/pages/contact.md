@@ -35,7 +35,7 @@ sections:
           Je comprends que ce formulaire stocke mes informations soumises afin
           que je puisse être contacté.
         is_required: true
-    submit_label: Send Message
+    submit_label: ENVOYER LE MESSAGE
 seo:
   title: Contact
   description: This is the contact page
