@@ -87,7 +87,7 @@ sections:
     title: Écrivez au Pr. Clotilde Chantal
     subtitle: Rédigez un email et elle vous répondra au moment idéal.
     actions:
-      - label: CONTACTEZ
+      - label: ENVOYER UN MESSAGE
         url: /contact
         style: primary
   - section_id: recent-posts
