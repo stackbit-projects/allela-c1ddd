@@ -93,7 +93,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: white
-    title: NEWS *&
+    title: NEWS &
     subtitle: Tous les derniers articles et / ou parutions.
 seo:
   title: Chantal ALLELA-KWEVI
