@@ -84,7 +84,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: Écrivez au Pr. Chantal
+    title: Écrivez au Pr. Clotilde Chantal
     subtitle: Rédigez un email et je vous répondrai au moment idéal.
     actions:
       - label: CONTACTEZ-MOI
