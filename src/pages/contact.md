@@ -9,7 +9,7 @@ sections:
     form_id: contactForm
     form_fields:
       - input_type: text
-        name: Nom
+        name: nom
         label: Nom
         is_required: true
         default_value: Votre nom
