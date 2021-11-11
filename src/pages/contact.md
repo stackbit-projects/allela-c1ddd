@@ -10,7 +10,7 @@ sections:
     form_fields:
       - input_type: text
         name: Nom
-        label: Name
+        label: Nom
         is_required: true
       - input_type: email
         name: email
