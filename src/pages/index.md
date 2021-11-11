@@ -31,7 +31,7 @@ sections:
       Latino-américaines de la même université, chargée de la coordination de la
       formation doctorale de la dite section.  Ses enseignements portent sur la
       littérature latino-américaine et les productions culturelles et
-      artistiques.\n"</p>
+      artistiques.</p>
     image_alt: lorem-ipsum
     background: white
     actions: []
