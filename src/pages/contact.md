@@ -23,7 +23,7 @@ sections:
         label: Motif
         default_value: Sélectionner le motif
         options:
-          - Error on the site
+          - Entrer en contact avec moi
           - Sponsorship
           - Other
       - input_type: textarea
