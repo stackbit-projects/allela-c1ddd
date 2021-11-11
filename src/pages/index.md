@@ -59,7 +59,7 @@ sections:
           KRAAL (Revue interdisciplinaire de Lettres, arts et langues,
           (Université du Gabon),  SANKOFA, Université de Bouaké. Egalement
           auteure de fiction, sous le pseudonyme de Kaïssa, elle a publié un
-          roman autobiographique intitulé Le chant de Yaye (Nten, 2013).
+          roman autobiographique intitulé Le chant de Yaye (Nten, 2013).</p>
         actions: []
       - title: Note Biographique
         image: images/Gabão50.jpg
