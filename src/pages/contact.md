@@ -20,7 +20,7 @@ sections:
         default_value: Votre email
       - input_type: select
         name: subject
-        label: Subject
+        label: Motif
         default_value: Please select
         options:
           - Error on the site
