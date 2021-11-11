@@ -60,7 +60,7 @@ sections:
     background: gray
     title: TÉMOIGNAGES
     subtitle: >-
-      Quelques mots des personnes qui ont pu côtoyer  Mme. Clotilde Chantal
+      Quelques mots des personnes qui ont pu côtoyer Clotilde Chantal
       ALLELA-KWEVI.
     reviews:
       - author: Eric Widget
