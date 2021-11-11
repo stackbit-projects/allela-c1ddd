@@ -30,7 +30,7 @@ sections:
         is_required: true
     submit_label: ENVOYER LE MESSAGE
 seo:
-  title: Contact
+  title: Contact - Clotilde Chantal ALLELA
   description: Page de contact pour échanger avec le Pr. Clotilde Chantal ALLELA-KWEVI.
   extra:
     - name: 'og:type'
