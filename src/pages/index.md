@@ -47,7 +47,7 @@ sections:
         actions: []
       - image: images/Gabão5-1-1024x768.jpg
         image_alt: App users welcoming a new member
-        content: >
+        content: >+
           <p align="justify">Clotilde Chantal ALLELA-KWEVI, a été membre des jurys de thèse à
           l’Université de Perpignan et co-dirigé une thèse avec Pr Lavou.
           Auteure de plusieurs articles, ses travaux sont publiés spécialement
