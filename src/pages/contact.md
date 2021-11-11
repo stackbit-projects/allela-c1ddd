@@ -48,5 +48,9 @@ seo:
       value: Contact - Clotilde Chantal ALLELA
     - name: 'twitter:description'
       value: Page de contact pour échanger avec le Pr. Clotilde Chantal ALLELA-KWEVI.
+    - name: 'og:image'
+      value: images/IMG-20181204-WA0050 (2).jpg
+      keyName: property
+      relativeUrl: true
 template: landing
 ---
